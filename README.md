@@ -1,1 +1,1 @@
-creatimg  a web page for website by HTML , CSS
+ Web page for website by HTML , CSS.
